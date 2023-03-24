@@ -1,0 +1,25 @@
+{
+  "name": "archive-manipulator",
+  "version": "1.0.0",
+  "description": "Scripts for adjusting archives",
+  "main": "index.js",
+  "scripts": {
+    "process": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maryam-saeidi/archive-manipulator.git"
+  },
+  "type": "module",
+  "author": "Maryam Saeidi",
+  "license": "MIT",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/maryam-saeidi/archive-manipulator/issues"
+  },
+  "homepage": "https://github.com/maryam-saeidi/archive-manipulator#readme",
+  "devDependencies": {
+    "prettier": "2.8.6"
+  }
+}
