@@ -34,9 +34,6 @@ export function processData() {
     }
 
     const outputData = [];
-    // for (let i = 0; i < inputData.length; i++) {
-    //   outputData.push(add_time_range(inputData[i]));
-    // }
     for (const item of inputData) {
       // PROCESSOR
       outputData.push(add_time_range(item));
